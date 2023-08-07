@@ -974,6 +974,15 @@
       "website": "https://totemaccounting.com"
     },
     {
+      "prefix": 2008,
+      "network": "cloudwalk_testnet",
+      "displayName": "CloudWalk Network Testnet",
+      "symbols": ["CWN"],
+      "decimals": [18],
+      "standardAccount": "*25519",
+      "website": "https://explorer.testnet.cloudwalk.io"
+    },
+    {
       "prefix": 2009,
       "network": "cloudwalk_mainnet",
       "displayName": "CloudWalk Network Mainnet",
